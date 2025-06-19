@@ -1,0 +1,54 @@
+/* aqui foi mediano, não sei se esta tudo como deveria, mas acho que cheguei perto c;*/
+.biografia{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: larger;
+}
+.meunome{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(240, 15, 172);
+    text-align: center;
+}
+body{
+    background-color:rgb(224, 239, 248)
+}
+.lista{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+margin-top: 100px;
+}
+.item{
+    margin: 30px;
+}
+.nomepais{
+    font-size: xx-large;
+    text-align: center;
+    border: 3px solid;
+}
+.imagem{
+    border: 3px solid;
+    border-radius: 5px;
+}
+.tabela{
+    border: 5px solid;
+}
+.titulotabela{
+    font-size: large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 45px;
+    color: white;
+    background-color: black;
+}
+.link{
+    font-size: larger;
+}
+.link:hover{
+    color: chartreuse;
+}
+#saudacao{
+    color: crimson;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, serif;
+}
